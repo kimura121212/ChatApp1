@@ -19,7 +19,6 @@
 		8D5BFD682459B2790001086E /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5BFD662459B2790001086E /* CustomCell.swift */; };
 		8D5BFD692459B2790001086E /* CustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8D5BFD672459B2790001086E /* CustomCell.xib */; };
 		8D5BFD6B2459BDC70001086E /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5BFD6A2459BDC70001086E /* Message.swift */; };
-		8D5BFD6D2459C77C0001086E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8D5BFD6C2459C77C0001086E /* GoogleService-Info.plist */; };
 		8D5BFD6F2459C8640001086E /* loading.json in Resources */ = {isa = PBXBuildFile; fileRef = 8D5BFD6E2459C8640001086E /* loading.json */; };
 		ECD1659FF4F177B485B4F895 /* Pods_ChatApp1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EFEDABC8F2F21D83F7B5923 /* Pods_ChatApp1.framework */; };
 /* End PBXBuildFile section */
@@ -40,7 +39,6 @@
 		8D5BFD662459B2790001086E /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 		8D5BFD672459B2790001086E /* CustomCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomCell.xib; sourceTree = "<group>"; };
 		8D5BFD6A2459BDC70001086E /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
-		8D5BFD6C2459C77C0001086E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8D5BFD6E2459C8640001086E /* loading.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = loading.json; sourceTree = "<group>"; };
 		C44958A8F8C5A163434374E6 /* Pods-ChatApp1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChatApp1.release.xcconfig"; path = "Target Support Files/Pods-ChatApp1/Pods-ChatApp1.release.xcconfig"; sourceTree = "<group>"; };
 		D0A8E91D25D2FCE5A834EDBC /* Pods-ChatApp1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChatApp1.debug.xcconfig"; path = "Target Support Files/Pods-ChatApp1/Pods-ChatApp1.debug.xcconfig"; sourceTree = "<group>"; };
@@ -94,7 +92,6 @@
 				8D5BFD4C2459A7820001086E /* LaunchScreen.storyboard */,
 				8D5BFD4F2459A7820001086E /* Info.plist */,
 				8D5BFD6E2459C8640001086E /* loading.json */,
-				8D5BFD6C2459C77C0001086E /* GoogleService-Info.plist */,
 			);
 			path = ChatApp1;
 			sourceTree = "<group>";
@@ -202,7 +199,6 @@
 				8D5BFD4E2459A7820001086E /* LaunchScreen.storyboard in Resources */,
 				8D5BFD4B2459A7820001086E /* Assets.xcassets in Resources */,
 				8D5BFD6F2459C8640001086E /* loading.json in Resources */,
-				8D5BFD6D2459C77C0001086E /* GoogleService-Info.plist in Resources */,
 				8D5BFD692459B2790001086E /* CustomCell.xib in Resources */,
 				8D5BFD492459A77E0001086E /* Main.storyboard in Resources */,
 			);
